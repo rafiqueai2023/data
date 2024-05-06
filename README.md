@@ -1,1 +1,1 @@
-Traing Data
+Traning Data
